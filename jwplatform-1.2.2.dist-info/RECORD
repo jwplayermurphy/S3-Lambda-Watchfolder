@@ -1,0 +1,13 @@
+jwplatform-1.2.2.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+jwplatform-1.2.2.dist-info/METADATA,sha256=-DteWiz9fhlWC1MqVqDz-7rrhNfo-yejAkuJWMNMmQU,4756
+jwplatform-1.2.2.dist-info/RECORD,,
+jwplatform-1.2.2.dist-info/WHEEL,sha256=J3CsTk7Mf2JNUyhImI-mjX-fmI4oDjyiXgWT4qgZiCE,110
+jwplatform-1.2.2.dist-info/top_level.txt,sha256=WjaohiD69whF5y7iTyYd_dvahrR0xbkUm96Ya8MrqzY,11
+jwplatform/__init__.py,sha256=VYvHoSsdu9Yvf_bDB7fUdWxfRSW6GuVuq4jb1bJFPQs,157
+jwplatform/__init__.pyc,,
+jwplatform/client.py,sha256=WkIuGzBAEODIV9ljM3kBwsncPDIOow5Zb1D2BqLe3PE,3625
+jwplatform/client.pyc,,
+jwplatform/errors.py,sha256=XawqS87G2VKji9dwcUVjtR76knFburmckLWDX814ilI,2934
+jwplatform/errors.pyc,,
+jwplatform/resource.py,sha256=xfbSVTMfOhRIFLolY2-NvRm52PWb2QGDQFkMQBc4ngY,3959
+jwplatform/resource.pyc,,
